@@ -1,0 +1,6 @@
+name,parent,swap
+Tail,,
+HeelL,Tail,HeelR
+HeelR,Tail,HeelL
+Nose,,
+Worm,,
