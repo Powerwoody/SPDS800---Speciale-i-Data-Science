@@ -1,8 +1,5 @@
 # SPDS800---Speciale-i-Data-Science
 
-
-<pre lang="markdown"> ```text MS-pose/ ├── eda/ ├── videos/ ├── evaluation/ ├── runs/ ├── wrappers/ │ ├── config_notebooks │ │ ├── DeepLabCut │ │ ├── Sleap │ │ └── LightningPose │ ├── wrapper_dlc.py │ ├── wrapper_lightning.py │ ├── wrapper_main.py │ └── wrapper_sleap.py └── README.md ``` </pre>
-
 **`videos/`**  
 Contains the training videos and provides insight into what the training data looks like.
 
