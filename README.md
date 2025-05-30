@@ -14,7 +14,8 @@ Contains the data extracted from UCloud after training and inference runs for ea
 
 **`wrappers/`**  
 The `wrappers` folder contains adapter scripts used for each pose estimation toolbox.  
-For each toolbox, there is a corresponding configuration notebook located in `config_notebooks/`, which includes setup instructions and workflow examples:
+For each toolbox, there is a corresponding configuration notebook located in `config_notebooks/`, 
+which includes setup instructions and workflow examples:
 - `DeepLabCut/`
 - `Sleap/`
 - `LightningPose/`
