@@ -1,20 +1,20 @@
 # SPDS800---Speciale-i-Data-Science
 
-MS-pose/
-├── eda/
-├── videos/
-├── evaluation/
-├── runs/
-├── wrappers/
-│ ├── config_notebooks
-│ │ ├── DeepLabCut
-│ │ ├── Sleap
-│ │ └── LightningPose
-│ ├── wrapper_dlc.py
-│ ├── wrapper_lightning.py
-│ ├── wrapper_main.py
-│ └── wrapper_sleap.py
-└── README.md
+
+eda/
+videos/
+evaluation/
+runs/
+wrappers/
+____ config_notebooks/
+________ DeepLabCut
+________ Sleap
+________ LightningPose
+____ wrapper_dlc.py
+____ wrapper_lightning.py
+____ wrapper_main.py
+____wrapper_sleap.py
+README.md
 
 **`videos/`**  
 Contains the training videos and provides insight into what the training data looks like.
