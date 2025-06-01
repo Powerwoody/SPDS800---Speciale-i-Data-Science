@@ -1,7 +1,0 @@
-\makecell[c]{\textbf{Model name}} & \makecell[c]{\textbf{Worst keypoint 1}} & \makecell[c]{\textbf{Worst keypoint 2}} & \makecell[c]{\textbf{Worst keypoint 3}} \\ \hline
-\makecell[c]{\textbf{SLEAP} \\ \textbf{Top-down model}} & \makecell[c]{EarLMidL \\ (0.05 ± 0.15)} & \makecell[c]{Worm \\ (0.06 ± 0.19)} & \makecell[c]{EarRMidR \\ (0.09 ± 0.20)} \\
-\makecell[c]{\textbf{SLEAP} \\ \textbf{Single-instance model}} & \makecell[c]{EarLMidL \\ (0.03 ± 0.11)} & \makecell[c]{Worm \\ (0.07 ± 0.20)} & \makecell[c]{EarRMidR \\ (0.08 ± 0.20)} \\
-\makecell[c]{\textbf{DeepLabCut} \\ \textbf{Bottom-up model}} & \makecell[c]{Worm \\ (0.11 ± 0.24)} & \makecell[c]{TrgRBaseR \\ (0.25 ± 0.28)} & \makecell[c]{EarLMidL \\ (0.28 ± 0.31)} \\
-\makecell[c]{\textbf{DeepLabCut} \\ \textbf{Top-down model}} & \makecell[c]{Worm \\ (0.23 ± 0.33)} & \makecell[c]{EarRMidR \\ (0.26 ± 0.30)} & \makecell[c]{TrgRBaseR \\ (0.29 ± 0.29)} \\
-\makecell[c]{\textbf{LightningPose} \\ \textbf{Bottom-up model}} & \makecell[c]{EarRMidR \\ (0.08 ± 0.21)} & \makecell[c]{TrgRTip \\ (0.09 ± 0.24)} & \makecell[c]{TrgRBaseR \\ (0.09 ± 0.23)} \\
-\makecell[c]{\textbf{LightningPose} \\ \textbf{TCN model}} & \makecell[c]{EarRMidR \\ (0.19 ± 0.27)} & \makecell[c]{Worm \\ (0.20 ± 0.30)} & \makecell[c]{TrgRBaseR \\ (0.21 ± 0.30)} \\
