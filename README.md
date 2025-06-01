@@ -9,9 +9,6 @@ Contains a notebook with the initial exploratory data analysis (EDA) conducted a
 **`evaluation/`**  
 Contains all files used for model evaluation and the calculations involved.
 
-**`runs/`**  
-Contains the data extracted from UCloud after training and inference runs for each model.
-
 **`wrappers/`**  
 The `wrappers` folder contains adapter scripts used for each pose estimation toolbox.  
 For each toolbox, there is a corresponding configuration notebook located in `config_notebooks/`, 
