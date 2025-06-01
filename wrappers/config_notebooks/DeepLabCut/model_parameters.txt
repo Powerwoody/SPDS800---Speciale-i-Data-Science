@@ -1,0 +1,16 @@
+data:  # which data augmentations will be used
+  ...
+device: auto # the default device to use for training and evaluation
+metadata:  # metadata regarding the project (bodyparts, individuals, paths, ...) - filled automatically
+  ...
+method: bu # indicates how pose predictions are made (bottom-up (`bu`) or top-down (`td`))
+model:  # configures the model architecture (which backbone, heads, ...)
+  ...
+net_type: resnet_50 # the type of neural net configured in the file
+runner:  # configuring the runner used for training
+  ...
+train_settings:  # generic training settings, such as batch size and maximum number of epochs
+  ...
+logger:  # optional: the configuration for a logger if you want one
+resume_training_from:  # optional: restart the training at the specific checkpoint
+
