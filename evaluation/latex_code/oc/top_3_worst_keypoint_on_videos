@@ -1,0 +1,7 @@
+\makecell[c]{\textbf{Model name}} & \makecell[c]{\textbf{Worst keypoint 1}} & \makecell[c]{\textbf{Worst keypoint 2}} & \makecell[c]{\textbf{Worst keypoint 3}} \\ \hline
+\makecell[c]{\textbf{SLEAP} \\ \textbf{Top-down model}} &  &  &  \\
+\makecell[c]{\textbf{SLEAP} \\ \textbf{Single-instance model}} &  &  &  \\
+\makecell[c]{\textbf{DeepLabCut} \\ \textbf{Bottom-up model}} &  &  &  \\
+\makecell[c]{\textbf{DeepLabCut} \\ \textbf{Top-down model}} &  &  &  \\
+\makecell[c]{\textbf{LightningPose} \\ \textbf{Bottom-up model}} &  &  &  \\
+\makecell[c]{\textbf{LightningPose} \\ \textbf{TCN model}} &  &  &  \\
